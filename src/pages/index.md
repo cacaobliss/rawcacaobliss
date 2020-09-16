@@ -2,20 +2,22 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great coffee with a raw cacao bliss powder
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Chocolate? No, it's not good for wellness.
+  description: This is a typical mindset that the majority of people have. However
+    not anymore. A raw cacao discovery has made consuming delicious chocolate an
+    extremely healthy and balanced and also enjoyable point to do. Visualize,
+    you could consume delicious chocolate on a daily basis and never stress over
+    gaining excessive weight. You 'd never ever have to stress over too much
+    sugar or any other speculations. Consuming chocolates could be as simple as
+    consuming nutritional fibers or a healthy, nourishing snack. Sounds
+    wonderful, does not it?
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
