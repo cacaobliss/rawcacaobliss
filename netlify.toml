@@ -8,9 +8,10 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
+  package = "@netlify/plugin-sitemap"
  
     [plugins.inputs]
- 
+    buildDir = "public"
     # The base url of your site (optional, default = main URL set in Netlify)
     baseUrl = "https://rawcacaobliss.netlify.app/"
  
