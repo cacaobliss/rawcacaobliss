@@ -8,7 +8,7 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
-  
+  package = "@netlify/plugin-sitemap"
  
     [plugins.inputs]
     buildDir = "public"
@@ -24,9 +24,3 @@
         "bing",
         "yandex"
     ]
-    
-    [[plugins]]
-  package = "@netlify/plugin-sitemap"
-  [plugins.inputs]
-    buildDir = "public"
-  
