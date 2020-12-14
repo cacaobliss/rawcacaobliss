@@ -24,3 +24,5 @@
         "bing",
         "yandex"
     ]
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
